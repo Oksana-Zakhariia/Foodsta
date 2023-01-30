@@ -5,7 +5,7 @@
   "homepage": "https://Oksana-Zakhariia.github.io/Foodsta",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /foodsta-19/"
+    "build": "parcel build src/*.html --public-url /Foodsta/"
   },
   "repository": {
     "type": "git",
